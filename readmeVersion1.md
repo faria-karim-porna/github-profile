@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://ajmendez.github.io/assets/helloworld_finished.png" align="center" style="width: 100%" />
+<img src="https://github.com/faria-karim-porna/github-profile/blob/main/resources/helloWorld.png" align="center" style="width: 100%" />
 </div>
 
 <div align="center"><img src="https://github.com/faria-karim-porna/github-profile/blob/main/resources/BDFlag.png" height="50" align="center"/></div>
