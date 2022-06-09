@@ -21,7 +21,7 @@
 </div>
 
 - <h3>💁 A passionate software engineer who loves to play with code</h3>
-- <h3>👩‍🎓 Completed my graduation from <i>North South University</i></h3>
+- <h3>👩‍🎓 Completed graduation from <i>North South University</i></h3>
 - <h3>📚 Currently, learning to implement <i>node.js</i> using <i>typescript</i></h3>
 - <h3>🎨 Love to do creative kinds of stuffs like illustration, slide making, animation using <i>PowerPoint</i></h3>
 
@@ -132,5 +132,5 @@
 </td></tr></table>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" align="center" style="width: 100%" />
+<img src="https://github.com/faria-karim-porna/github-profile/blob/main/resources/footer.svg" align="center" style="width: 100%" />
 </div>
