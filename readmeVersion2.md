@@ -27,95 +27,72 @@
 
 ## 🛠 My Skill Set
 
-<img src="https://img.shields.io/badge/Programming Languages-3F3F3F?style=for-the-badge&logo=plex&logoColor=FFFFFF"/>
+<div align="left"><img src="https://img.shields.io/badge/Programming Languages-3F3F3F?style=for-the-badge&logo=plex&logoColor=FFFFFF"/></div>
+
+<div align="left">
+<img src="https://img.shields.io/badge/javascript-211e1b?style=for-the-badge&logo=javascript&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/typescript-211e1b?style=for-the-badge&logo=typescript&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/c%2B%2B-211e1b?style=for-the-badge&logo=c%2B%2B&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/php-211e1b?style=for-the-badge&logo=php&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/c-211e1b?style=for-the-badge&logo=c&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/python-211e1b?style=for-the-badge&logo=python&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/java-211e1b?style=for-the-badge&logo=java&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/c%23-211e1b?style=for-the-badge&logo=csharp&logoColor=22C4E1&labelColor=211e1b"/></div>
 <br/>
-<img src="https://img.shields.io/badge/javascript-211e1b?style=for-the-badge&logo=javascript&logoColor=22C4E1&labelColor=211e1b
-"/>
-<img src="https://img.shields.io/badge/typescript-211e1b?style=for-the-badge&logo=typescript&logoColor=22C4E1&labelColor=211e1b
-"/>
-<img src="https://img.shields.io/badge/c%2B%2B-211e1b?style=for-the-badge&logo=c%2B%2B&logoColor=22C4E1&labelColor=211e1b
-"/>
-<img src="https://img.shields.io/badge/php-211e1b?style=for-the-badge&logo=php&logoColor=22C4E1&labelColor=211e1b
-"/>
-<img src="https://img.shields.io/badge/c-211e1b?style=for-the-badge&logo=c&logoColor=22C4E1&labelColor=211e1b
-"/>
-<img src="https://img.shields.io/badge/python-211e1b?style=for-the-badge&logo=python&logoColor=22C4E1&labelColor=211e1b
-"/>
-<img src="https://img.shields.io/badge/java-211e1b?style=for-the-badge&logo=java&logoColor=22C4E1&labelColor=211e1b
-"/>
-<img src="https://img.shields.io/badge/c%23-211e1b?style=for-the-badge&logo=csharp&logoColor=22C4E1&labelColor=211e1b
-"/>
+<div align="left"><img src="https://img.shields.io/badge/Frontend-3F3F3F?style=for-the-badge&logo=plex&logoColor=FFFFFF"/></div>
+
+<div align="left"><img src="https://img.shields.io/badge/html5-211e1b?style=for-the-badge&logo=html5&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/css3-211e1b?style=for-the-badge&logo=css3&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/javascript-211e1b?style=for-the-badge&logo=javascript&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/bootstrap-211e1b?style=for-the-badge&logo=bootstrap&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/react-211e1b?style=for-the-badge&logo=react&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/redux-211e1b?style=for-the-badge&logo=redux&logoColor=22C4E1&labelColor=211e1b"/>
+</div>
 <br/>
-<img src="https://img.shields.io/badge/Frontend-3F3F3F?style=for-the-badge&logo=plex&logoColor=FFFFFF"/>
+<div align="left"><img src="https://img.shields.io/badge/Backend-3F3F3F?style=for-the-badge&logo=plex&logoColor=FFFFFF"/></div>
+
+<div align="left"><img src="https://img.shields.io/badge/express-211e1b?style=for-the-badge&logo=express&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/php-211e1b?style=for-the-badge&logo=php&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/flask-211e1b?style=for-the-badge&logo=flask&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/laravel-211e1b?style=for-the-badge&logo=laravel&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/django-211e1b?style=for-the-badge&logo=django&logoColor=22C4E1&labelColor=211e1b"/>
+</div>
 <br/>
-<img src="https://img.shields.io/badge/html5-211e1b?style=for-the-badge&logo=html5&logoColor=22C4E1&labelColor=211e1b
-"/>
-<img src="https://img.shields.io/badge/css3-211e1b?style=for-the-badge&logo=css3&logoColor=22C4E1&labelColor=211e1b
-"/>
-<img src="https://img.shields.io/badge/javascript-211e1b?style=for-the-badge&logo=javascript&logoColor=22C4E1&labelColor=211e1b
-"/>
-<img src="https://img.shields.io/badge/bootstrap-211e1b?style=for-the-badge&logo=bootstrap&logoColor=22C4E1&labelColor=211e1b
-"/>
-<img src="https://img.shields.io/badge/react-211e1b?style=for-the-badge&logo=react&logoColor=22C4E1&labelColor=211e1b
-"/>
-<img src="https://img.shields.io/badge/redux-211e1b?style=for-the-badge&logo=redux&logoColor=22C4E1&labelColor=211e1b
-"/>
+<div align="left"><img src="https://img.shields.io/badge/Database-3F3F3F?style=for-the-badge&logo=plex&logoColor=FFFFFF"/></div>
+
+<div align="left"><img src="https://img.shields.io/badge/mongodb-211e1b?style=for-the-badge&logo=mongodb&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/mysql-211e1b?style=for-the-badge&logo=mysql&logoColor=22C4E1&labelColor=211e1b"/></div>
 <br/>
-<img src="https://img.shields.io/badge/Backend-3F3F3F?style=for-the-badge&logo=plex&logoColor=FFFFFF"/>
+<div align="left"><img src="https://img.shields.io/badge/App Development-3F3F3F?style=for-the-badge&logo=plex&logoColor=FFFFFF"/></div>
+
+<div align="left">
+<img src="https://img.shields.io/badge/ionic-211e1b?style=for-the-badge&logo=ionic&logoColor=22C4E1&labelColor=211e1b"/></div>
 <br/>
-<img src="https://img.shields.io/badge/express-211e1b?style=for-the-badge&logo=express&logoColor=22C4E1&labelColor=211e1b
-"/>
-<img src="https://img.shields.io/badge/php-211e1b?style=for-the-badge&logo=php&logoColor=22C4E1&labelColor=211e1b
-"/>
-<img src="https://img.shields.io/badge/flask-211e1b?style=for-the-badge&logo=flask&logoColor=22C4E1&labelColor=211e1b
-"/>
-<img src="https://img.shields.io/badge/laravel-211e1b?style=for-the-badge&logo=laravel&logoColor=22C4E1&labelColor=211e1b
-"/>
-<img src="https://img.shields.io/badge/django-211e1b?style=for-the-badge&logo=django&logoColor=22C4E1&labelColor=211e1b
-"/>
+<div align="left">
+<img src="https://img.shields.io/badge/AI/ML-3F3F3F?style=for-the-badge&logo=plex&logoColor=FFFFFF"/></div>
+
+<div align="left">
+<img src="https://img.shields.io/badge/python-211e1b?style=for-the-badge&logo=python&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/pandas-211e1b?style=for-the-badge&logo=pandas&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/opencv-211e1b?style=for-the-badge&logo=opencv&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/keras-211e1b?style=for-the-badge&logo=keras&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/tensorflow-211e1b?style=for-the-badge&logo=tensorflow&logoColor=22C4E1&labelColor=211e1b"/></div>
 <br/>
-<img src="https://img.shields.io/badge/Database-3F3F3F?style=for-the-badge&logo=plex&logoColor=FFFFFF"/>
+<div align="left">
+<img src="https://img.shields.io/badge/Game Development-3F3F3F?style=for-the-badge&logo=plex&logoColor=FFFFFF"/></div>
+
+<div align="left">
+<img src="https://img.shields.io/badge/unity-211e1b?style=for-the-badge&logo=unity&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/construct3-211e1b?style=for-the-badge&logo=construct3&logoColor=22C4E1&labelColor=211e1b"/></div>
 <br/>
-<img src="https://img.shields.io/badge/mongodb-211e1b?style=for-the-badge&logo=mongodb&logoColor=22C4E1&labelColor=211e1b
-"/>
-<img src="https://img.shields.io/badge/mysql-211e1b?style=for-the-badge&logo=mysql&logoColor=22C4E1&labelColor=211e1b
-"/>
-<br/>
-<img src="https://img.shields.io/badge/App Development-3F3F3F?style=for-the-badge&logo=plex&logoColor=FFFFFF"/>
-<br/>
-<img src="https://img.shields.io/badge/ionic-211e1b?style=for-the-badge&logo=ionic&logoColor=22C4E1&labelColor=211e1b
-"/>
-<br/>
-<img src="https://img.shields.io/badge/AI/ML-3F3F3F?style=for-the-badge&logo=plex&logoColor=FFFFFF"/>
-<br/>
-<img src="https://img.shields.io/badge/python-211e1b?style=for-the-badge&logo=python&logoColor=22C4E1&labelColor=211e1b
-"/>
-<img src="https://img.shields.io/badge/pandas-211e1b?style=for-the-badge&logo=pandas&logoColor=22C4E1&labelColor=211e1b
-"/>
-<img src="https://img.shields.io/badge/opencv-211e1b?style=for-the-badge&logo=opencv&logoColor=22C4E1&labelColor=211e1b
-"/>
-<img src="https://img.shields.io/badge/keras-211e1b?style=for-the-badge&logo=keras&logoColor=22C4E1&labelColor=211e1b
-"/>
-<img src="https://img.shields.io/badge/tensorflow-211e1b?style=for-the-badge&logo=tensorflow&logoColor=22C4E1&labelColor=211e1b
-"/>
-<br/>
-<img src="https://img.shields.io/badge/Game Development-3F3F3F?style=for-the-badge&logo=plex&logoColor=FFFFFF"/>
-<br/>
-<img src="https://img.shields.io/badge/unity-211e1b?style=for-the-badge&logo=unity&logoColor=22C4E1&labelColor=211e1b
-"/>
-<img src="https://img.shields.io/badge/construct3-211e1b?style=for-the-badge&logo=construct3&logoColor=22C4E1&labelColor=211e1b
-"/>
-<br/>
-<img src="https://img.shields.io/badge/Others-3F3F3F?style=for-the-badge&logo=plex&logoColor=FFFFFF"/>
-<br/>
-<img src="https://img.shields.io/badge/git-211e1b?style=for-the-badge&logo=git&logoColor=22C4E1&labelColor=211e1b
-"/>
-<img src="https://img.shields.io/badge/heroku-211e1b?style=for-the-badge&logo=heroku&logoColor=22C4E1&labelColor=211e1b
-"/>
-<img src="https://img.shields.io/badge/firebase-211e1b?style=for-the-badge&logo=firebase&logoColor=22C4E1&labelColor=211e1b
-"/>
-<img src="https://img.shields.io/badge/arduino-211e1b?style=for-the-badge&logo=arduino&logoColor=22C4E1&labelColor=211e1b
-"/>
+<div align="left">
+<img src="https://img.shields.io/badge/Others-3F3F3F?style=for-the-badge&logo=plex&logoColor=FFFFFF"/></div>
+
+<div align="left">
+<img src="https://img.shields.io/badge/git-211e1b?style=for-the-badge&logo=git&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/heroku-211e1b?style=for-the-badge&logo=heroku&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/firebase-211e1b?style=for-the-badge&logo=firebase&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/arduino-211e1b?style=for-the-badge&logo=arduino&logoColor=22C4E1&labelColor=211e1b"/></div>
 
 ## 📈 Github Stats
 
